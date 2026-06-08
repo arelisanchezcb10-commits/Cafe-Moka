@@ -1,6 +1,6 @@
 
 html {
-  background-color: #C16247
+  background-color: #C16247;
   font-family: "Neilvard Four", serif;
   margin: 0;
   padding: 0;
@@ -10,7 +10,7 @@ html {
 body {
   width: 70%;
   margin: 0 auto;
-  background-color: #ECE6E6
+  background-color: #ECE6E6;
   padding: 0 15px 15px 15px;
   border: 5px solid black
 }
@@ -19,15 +19,15 @@ h1 {
   text-align: center;
   margin: 10px 0;
   padding: 10 px 0;
-  color: #160802
+  color: #160802;
 }
 
 p{
- color:#160802
+ color:#160802;
 }
 
 li {
- color:#641B0A
+ color:#641B0A;
  }
 }
 
@@ -37,7 +37,7 @@ font-size: 2vw;
 text-align: center;
 margin: 0;
 padding: 10px 0;
-color:#461B10
+color:#461B10;
 text-shadow: 3px 3px 1px black;
 }
 
@@ -59,7 +59,7 @@ h1 {
    text-align: center;
    margi: 0;
    padding: 20px 0;
-   color: #190B04
+   color: #190B04;
    text-shadow: 3px 3px 1px black;
 }
 
