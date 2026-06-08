@@ -8,10 +8,10 @@ body {
 }
 
 #encabezado {
-  background-color: #6C9E33;
+  background-color: #481E1E;
   text-align: center;
   font-size: 35px;
-  color: white;
+  color: #F0E7E6;
   height: auto;
 }
 
@@ -22,7 +22,7 @@ body {
         font-size: 18px;
         list-style-type:none;
         height: auto;
-        background-color: #DDEEC9;
+        background-color: #834E48;
         }
 
 #columna_principal {
