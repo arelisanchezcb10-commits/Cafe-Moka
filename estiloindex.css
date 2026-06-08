@@ -10,7 +10,7 @@ html {
 body {
   width: 70%;
   margin: 0 auto;
-  background-color: #
+  background-color: #C16247
   padding: 0 15px 15px 15px;
   border: 5px solid black
 }
@@ -19,15 +19,15 @@ h1 {
   text-align: center;
   margin: 10px 0;
   padding: 10 px 0;
-  color: #
+  color: ##160802
 }
 
 p{
- color:
+ color:#160802
 }
 
 li {
- color:
+ color:#641B0A
  }
 }
 
@@ -37,7 +37,7 @@ font-size: 2vw;
 text-align: center;
 margin: 0;
 padding: 10px 0;
-color:
+color:#461B10
 text-shadow: 3px 3px 1px black;
 }
 
@@ -59,7 +59,7 @@ h1 {
    text-align: center;
    margi: 0;
    padding: 20px 0;
-   color: #
+   color: ##190B04
    text-shadow: 3px 3px 1px black;
 }
 
