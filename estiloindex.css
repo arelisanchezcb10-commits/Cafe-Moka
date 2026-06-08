@@ -1,7 +1,7 @@
 
 html {
   background-color: #
-  font-family: "Open Sans", sans-serif;
+  font-family: "Neilvard Four", Neilvar Four;
   margin: 0;
   padding: 0;
   box_sizing: border-box;
@@ -10,7 +10,7 @@ html {
 body {
   width: 70%;
   margin: 0 auto;
-  background-color: #C16247
+  background-color: "#C16247"
   padding: 0 15px 15px 15px;
   border: 5px solid black
 }
@@ -19,15 +19,15 @@ h1 {
   text-align: center;
   margin: 10px 0;
   padding: 10 px 0;
-  color: ##160802
+  color: "#160802"
 }
 
 p{
- color:#160802
+ color:"#160802"
 }
 
 li {
- color:#641B0A
+ color:"#641B0A"
  }
 }
 
@@ -37,7 +37,7 @@ font-size: 2vw;
 text-align: center;
 margin: 0;
 padding: 10px 0;
-color:#461B10
+color:"#461B10"
 text-shadow: 3px 3px 1px black;
 }
 
@@ -59,7 +59,7 @@ h1 {
    text-align: center;
    margi: 0;
    padding: 20px 0;
-   color: ##190B04
+   color: "#190B04"
    text-shadow: 3px 3px 1px black;
 }
 
@@ -76,7 +76,7 @@ li {
 }
 
 .testbtn {
-  background-color: #04AA6D;
+  background-color: "#04AA6D";
   color: white;
   font-size: 15px;
   padding: 12px;
